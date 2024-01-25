@@ -32,7 +32,7 @@ http://192.168.50.1:4022/udp/239.254.96.161:9040
 http://192.168.50.1:4022/udp/239.69.1.107:10280
 #EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="CCTV",CCTV15音乐
 http://192.168.50.1:4022/udp/239.69.1.155:10566
-#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16奥林匹克.png" group-title="CCTV",CCTV16奥林匹克
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="CCTV",CCTV16奥林匹克
 http://192.168.50.1:4022/udp/239.69.1.247:11124
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="CCTV",CCTV17农业农村
 http://192.168.50.1:4022/udp/239.69.1.152:10548
@@ -136,7 +136,7 @@ http://192.168.50.1:4022/udp/239.69.1.40:9880
 http://192.168.50.1:4022/udp/239.69.1.41:9886
 #EXTINF:-1,tvg-id="湖北综合" tvg-name="湖北综合" tvg-logo="https://epg.112114.xyz/logo/湖北公共新闻1.png" group-title="湖北",湖北综合
 http://192.168.50.1:4022/udp/239.69.1.42:9892
-#EXTINF:-1,tvg-id="湖北垄上" tvg-name="湖北垄上" tvg-logo="https://epg.112114.xyz/logo/湖北垄上" group-title="湖北",湖北垄上
+#EXTINF:-1,tvg-id="湖北垄上" tvg-name="湖北垄上" tvg-logo="https://epg.112114.xyz/logo/湖北垄上.png" group-title="湖北",湖北垄上
 http://192.168.50.1:4022/udp/239.69.1.43:9898
 #EXTINF:-1,tvg-id="湖北影视" tvg-name="湖北影视" tvg-logo="https://epg.112114.xyz/logo/湖北影视.png" group-title="湖北",湖北影视
 http://192.168.50.1:4022/udp/239.69.1.204:10866
@@ -144,7 +144,7 @@ http://192.168.50.1:4022/udp/239.69.1.204:10866
 http://192.168.50.1:4022/udp/239.69.1.205:10872
 #EXTINF:-1,tvg-id="湖北教育" tvg-name="湖北教育" tvg-logo="https://epg.112114.xyz/logo/湖北教育.png" group-title="湖北",湖北教育
 http://192.168.50.1:4022/udp/239.69.1.206:10878
-#EXTINF:-1,tvg-id="CCTV16-4K" tvg-name="CCTV16-4K" tvg-logo="https://live.fanmingming.com/tv/CCTV16奥林匹克.png" group-title="4K",CCTV16奥林匹克-4K
+#EXTINF:-1,tvg-id="CCTV16-4K" tvg-name="CCTV16-4K" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="4K",CCTV16奥林匹克-4K
 http://192.168.50.1:4022/udp/239.69.1.249:11136
 #EXTINF:-1,tvg-id="BestTV测试1-4K" tvg-name="BestTV测试1-4K" tvg-logo="https://live.fanmingming.com/tv/百事通.png" group-title="4K",BestTV测试1-4K
 http://192.168.50.1:4022/udp/239.69.1.26:9796
@@ -178,5 +178,6 @@ http://192.168.50.1:4022/udp/239.69.1.157:10578
 http://192.168.50.1:4022/udp/239.69.1.173:10674
 #EXTINF:-1,tvg-id="江苏卫视(备)" tvg-name="江苏卫视(备)" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",江苏卫视(备)
 http://192.168.50.1:4022/udp/239.69.1.174:10680
-#EXTINF:-1,tvg-id="CCTV16-4K(备)" tvg-name="CCTV16-4K(备)" tvg-logo="https://live.fanmingming.com/tv/CCTV16奥林匹克.png" group-title="4K",CCTV16奥林匹克-4K(备)
+#EXTINF:-1,tvg-id="CCTV16-4K(备)" tvg-name="CCTV16-4K(备)" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="4K",CCTV16奥林匹克-4K(备)
 http://192.168.50.1:4022/udp/239.69.1.13:9718
+
