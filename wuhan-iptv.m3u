@@ -49,7 +49,7 @@ http://192.168.50.1:4022/udp/239.69.1.235:11052
 http://192.168.50.1:4022/udp/239.69.1.221:10968
 #EXTINF:-1,tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://epg.112114.xyz/logo/CGTN俄语.png" group-title="央视",CGTN俄语
 http://192.168.50.1:4022/udp/239.69.1.222:10974
-#EXTINF:-1,tvg-id="CGTN英语" tvg-name="CGTN英语" tvg-logo="https://epg.112114.xyz/logo/CGTN英语.png" group-title="央视",CGTN英语
+#EXTINF:-1,tvg-id="CGTN英语" tvg-name="CGTN英语" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="央视",CGTN英语
 http://192.168.50.1:4022/udp/239.254.96.175:9124
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV-4K
 http://192.168.50.1:4022/udp/239.69.1.111:10304
@@ -169,8 +169,6 @@ http://192.168.50.1:4022/udp/239.69.1.110:10298
 http://192.168.50.1:4022/udp/239.69.1.37:9862
 #EXTINF:-1,tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://epg.112114.xyz/logo/武术世界.png" group-title="其他",武术世界
 http://192.168.50.1:4022/udp/239.69.1.47:9922
-#EXTINF:-1,tvg-id="iTV导视" tvg-name="iTV导视" tvg-logo="https://epg.112114.xyz/logo/ITV导视.png" group-title="其他",iTV导视
-http://192.168.50.1:4022/udp/239.69.1.65:10030
 #EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="其他",CHC家庭影院
 http://192.168.50.1:4022/udp/239.69.1.243:11100
 #EXTINF:-1,tvg-id="央广购物" tvg-name="央广购物" tvg-logo="https://epg.112114.xyz/logo/央广购物.png" group-title="其他",央广购物
@@ -195,7 +193,5 @@ http://192.168.50.1:4022/udp/239.69.2.11:11220
 http://192.168.50.1:4022/udp/239.69.1.74:10084
 #EXTINF:-1,tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://epg.112114.xyz/logo/都市剧场.png" group-title="其他",都市剧场
 http://192.168.50.1:4022/udp/239.69.2.4:11178
-#EXTINF:-1,tvg-id="测试频道1" tvg-name="测试频道1" tvg-logo="https://epg.112114.xyz/logo/测试频道1.png" group-title="其他",测试频道1
-http://192.168.50.1:4022/udp/239.69.1.177:10698
 #EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="其他",欢笑剧场-4K
 http://192.168.50.1:4022/udp/239.69.2.5:11184
